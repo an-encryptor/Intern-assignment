@@ -1,0 +1,125 @@
+*{
+    /* background-color: black; */
+}
+
+a{
+    text-decoration: none;
+}
+
+html::-webkit-scrollbar {
+    display: none;
+}
+
+nav{
+    background-color: black;
+    color: aliceblue;
+}
+.navbar-brand{
+    color: aliceblue;
+}
+.navbar-brand:hover{
+    color: #1ffeb4;
+}
+
+#land{
+    background-color: black;
+    color: aliceblue;
+}
+
+.mainbg{
+/* make main page shadow */
+}
+
+nav div ul .nav-item .nav-link:hover{
+    color: #1ffeb4;
+}
+
+
+body #land h2{
+    color: #1ffeb4;
+}
+
+footer,.needspace{
+    background-color: black;
+    color: white;
+}
+
+footer div ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+/* #1ffeb4 */
+
+.button-def{
+    background: #1ffeb4;
+    color: black;
+}
+
+.button-def:hover{
+    border-color: #1ffeb4;
+    color: white;
+}
+
+.spax{
+    background-color: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.spax div h1{
+    color: white;
+    font-size: 50px;
+}
+
+.spax div .taglo{
+    color: white;
+}
+
+.haveh1{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.btni{
+    background-color: #1ffeb4;
+    border-radius: 10px;
+    border: #1ffeb4 solid 4px;
+  color: black;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: solid;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.btni:hover{
+    border-color: #1ffeb4;
+    border: #1ffeb4 solid 4px;
+    color: rgb(255, 255, 255);
+}
+
+.btnh{
+    background-color: #000d0c; /* black */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.btnh:hover{
+    border: #000d0c solid 3px;
+}
+
+.alex{
+    background-color: #000d0c;
+}
+
+.woo{
+    color: white;
+}
+
